@@ -108,7 +108,7 @@ const Contact = () => {
             <span className="text-primary font-medium">Get in Touch</span>
           </div>
           <h2 className="text-4xl md:text-5xl font-bold mb-6 text-balance">
-            Let's Start Your{" "}
+            Lets Start Your{" "}
             <span className="bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
               Learning Journey
             </span>
@@ -255,8 +255,8 @@ const Contact = () => {
             <motion.div variants={itemVariants}>
               <h3 className="text-2xl font-bold mb-6 text-glow-blue">Get in Touch</h3>
               <p className="text-muted-foreground mb-8 leading-relaxed">
-                We're passionate about transforming education through AI. Whether you're a student, educator, or
-                institution, we'd love to hear from you and discuss how we can help achieve your learning goals.
+                We are passionate about transforming education through AI. Whether you're a student, educator, or
+                institution, we  love to hear from you and discuss how we can help achieve your learning goals.
               </p>
             </motion.div>
 
