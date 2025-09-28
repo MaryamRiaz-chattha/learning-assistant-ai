@@ -74,7 +74,7 @@ const Footer = () => {
           viewport={{ once: true }}
           className="border-t border-border mt-8 pt-8 text-center"
         >
-          <p className="text-muted-foreground">© 2025 LearnAI. All rights reserved. Built with ❤️ and AI.</p>
+          <p className="text-muted-foreground">© 2025 LearnAI. All rights reserved. Built by Maryam Riaz.</p>
         </motion.div>
       </div>
     </footer>
